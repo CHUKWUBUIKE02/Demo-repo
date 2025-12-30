@@ -1,0 +1,13 @@
+ html {
+    font-size: 22px;
+     }
+body {
+    background-color: #333;
+    color: whitesmoke;
+    }
+    tr, th, td, caption, table {
+        padding: 0.5rem;
+        border: 1px solid #eee;
+        font-family: 'Courier New', Courier, monospace;
+        border-collapse: collapse;
+    }
